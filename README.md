@@ -34,5 +34,5 @@ Development is currently focused on building the firmware architecture and imple
 
 ## Photos
 
-![Project Screenshot](images/week_general_design.png)
+![Project Screenshot](images/week_general_design.jpeg)
 ![Project Screenshot](images/week5vs.png)
